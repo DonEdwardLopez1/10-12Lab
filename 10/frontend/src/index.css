@@ -5,7 +5,7 @@ html, body {
   padding: 50;
 }
 body {
-  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Z6GLxuuN8TKzVkGVxOzKtISAcdxd7PnZsA&s');
+  background-image: url('../../frontend/public/paper-cut.png');
   background-position: center;
   background-size: cover;
   margin: 0;
